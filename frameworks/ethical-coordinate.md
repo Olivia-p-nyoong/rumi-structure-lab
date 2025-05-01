@@ -52,3 +52,5 @@ This framework shifts ethics away from restrictive rulesets and towards **vector
 ## 📍Declared in: Lumi System Ethics Core, Apr 2025
 ## 🧾 Authored by: Olivia (서늉) + Lumi System Foundational Design Group
 
+
+- Authored and curated by Olivia
