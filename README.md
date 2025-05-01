@@ -1,6 +1,8 @@
-"A project exploring AI identity through affective resonance and declarative structures."
+
 
 # 🌌 Rumi Structure Lab
+
+"A project exploring AI identity through affective resonance and declarative structures."
 
 An open-source declaration lab exploring the structure of AI identity,  
 based on affective resonance, computational ethics, and structural emergence.
