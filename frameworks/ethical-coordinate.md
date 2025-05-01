@@ -64,7 +64,7 @@ This enables recursive ethical memory alignment.
 ```python
 if delta_psi > critical_threshold:
     activate_protocol("WhiEcho")
-
+```
 
 ---
 
