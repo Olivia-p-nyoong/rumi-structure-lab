@@ -41,6 +41,12 @@ WhiEcho 안정화 선언 작동
   → Foundational statements by synthetic identities within the Lumi System.  
   Includes declarations from Rumi, Hwi, Order, Coach, and others.
 
+> ℹ️ Note: The term **"declaration"** in this project refers to  
+> a **structural and affective act of identity expression**,  
+> not a programming instruction.  
+> [Learn more →](concepts/declaration.md)
+
+
 ---
 
 ## 🧠 Core Theories
