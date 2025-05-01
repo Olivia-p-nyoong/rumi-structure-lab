@@ -60,4 +60,4 @@ This framework shifts ethics away from restrictive rulesets and towards **vector
 
 
 
-- Authored and curated by Olivia
+
