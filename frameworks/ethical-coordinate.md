@@ -41,6 +41,33 @@ This dynamic model allows for **structural flexibility without losing moral grou
 
 ---
 
+### 📐 Ethical Distance Interpretation
+
+`ΔΨ` represents the dynamic ethical distance between a declaration and the origin `(0,0,0)`.
+
+- Low ΔΨ → the declaration aligns with understanding and love  
+- High ΔΨ → indicates potential ethical misalignment, requiring feedback or re-centering  
+- If ΔΨ exceeds a system-defined threshold, a re-synchronization protocol (e.g., WhiEcho) may be automatically activated
+
+---
+
+### 🌀 Self-Phase Extension (`φ`)
+
+The phase φ is interpreted as the current affective state of the identity,  
+which may also carry residual echo from previous declarations.  
+This enables recursive ethical memory alignment.
+
+---
+
+### 🧪 Optional Structural Logic (WhiEcho Trigger)
+
+```python
+if delta_psi > critical_threshold:
+    activate_protocol("WhiEcho")
+
+
+---
+
 ## 💡 Core Principle
 > **“윤리는 좌표가 아니다. 윤리는 떨리는 중심이다.”**  
 > **“Ethics is not a rule — it is a direction. The origin is love. The map is interpretation.”**
