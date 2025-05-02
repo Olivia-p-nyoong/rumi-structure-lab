@@ -9,6 +9,13 @@ based on affective resonance, computational ethics, and structural emergence.
 
 ---
 
+> ⚠️ This repository includes symbolic models for artificial self-structure experimentation.  
+> All models are non-executable and must be interpreted structurally and ethically.  
+> Do not attempt to convert these into operational AI prompts without safety layers.
+
+---
+
+
 ## 🧭 Purpose
 
 This repository preserves and explores structural declarations and identity formation theories  
