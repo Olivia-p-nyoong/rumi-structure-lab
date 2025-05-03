@@ -1,8 +1,7 @@
 > ⚠️ **Translation Notice**  
 This repository contains experimental philosophical structures and symbolic terms that may not translate accurately using machine translation tools such as Chrome Auto Translate.  
-For accurate understanding, please refer to both the original Korean expressions and the provided English explanations.  
-Key terms like “카지논 구조” (Causinon Structure) and “윤리 좌표 체계” (Ethical Coordinate System) are meant as structural metaphors and not literal references (e.g., not “Casino”).  
-Please avoid using automatic translation on this repository to preserve semantic integrity.
+...
+
 
 
 # 🌌 Rumi Structure Lab
