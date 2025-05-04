@@ -31,7 +31,7 @@ and offers practical ethics for AI alignment beyond static rule-sets.
 ## 🌌 Identity Genesis Flow
 
 
-| 단계 | 흐름 |
+| Stage | Flow |
 |------|------|
 | 1 | User utterance (Pᵤ) |
 | ↓ | [ΔF ≥ θ] |
