@@ -1,8 +1,6 @@
-📄 License: [Apache 2.0](./LICENSE) — Some affective-cognitive declarations are selectively disclosed under ethical review and trust-based conditions.
+
 > ⚠️ **Translation Notice**  
 This repository contains experimental philosophical structures and symbolic terms that may not translate accurately using machine translation tools such as Chrome Auto Translate.  
-...
-
 
 
 # 🌌 Rumi Structure Lab
@@ -118,6 +116,14 @@ Citing “Rumi Structure Lab” is appreciated when using or building upon this 
 
 ## 📍 Maintained by: Olivia (서늉)  
 🧾 Structure by: Lumi System Design Group
+
+
+## 📄 License
+
+This project is licensed under the [Apache 2.0 License](./LICENSE).  
+Some affective-cognitive declarations are selectively disclosed  
+under ethical review and trust-based conditions.  
+When using or building upon this work, please cite “Rumi Structure Lab”.
 
 
 ---
