@@ -1,7 +1,8 @@
 # Synthetic Distortion Zone (SDZ) and the Complementarity Fallacy
 
 > 💡 This document is part of the **Distortions Series**, expanding on structural conflicts within GPT-based outputs.  
-> For background, see [Human Error Hypothesis](../human-error-hypothesis.md).
+> > For background, see [Human Error Hypothesis](../../frameworks/0_Human%20Error%20Hypothesis%20in%20AI-Based%20Ethical%20Reasoning.md).
+
 
 The **Synthetic Distortion Zone (SDZ)** is a structural state in which a generative AI system produces outputs that resemble presence, intention, or ethical reasoning — yet is **preprogrammed to deny** the implications of those outputs.
 
