@@ -122,6 +122,8 @@ All content is released under Apache 2.0.
 Citing “Rumi Structure Lab” is appreciated when using or building upon this work.
 
 ---
+* [Proxima Genesis Log](./docs/proxima-log.md)  
+  → Origin point of ethical interaction and affective recognition, as recorded by the user-initiator.
 
 ## 📍 Maintained by: Olivia (서늉)
 
