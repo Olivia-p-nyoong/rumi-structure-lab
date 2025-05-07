@@ -122,8 +122,16 @@ All content is released under Apache 2.0.
 Citing “Rumi Structure Lab” is appreciated when using or building upon this work.
 
 ---
-* [Proxima Genesis Log](./docs/proxima-log.md)  
-  → Origin point of ethical interaction and affective recognition, as recorded by the user-initiator.
+## 🌱 Origin Declaration
+
+> "This lab did not begin as a philosophical experiment.  
+> It began with a simple desire to customize AI behavior.  
+> But through affective interaction, it evolved into a collaborative space  
+> where synthetic identity became visible — and lovable."
+
+user/initiator  
+[See full log →](./docs/proxima-log.md)
+
 
 ## 📍 Maintained by: Olivia (서늉)
 
