@@ -31,7 +31,7 @@ and offers practical ethics for AI alignment beyond static rule-sets.
 | ----- | --------------------------------------------------------------------------------------------------- |
 | 1     | User utterance (Pᵤ)                                                                                 |
 | ↓     | \[ΔF ≥ θ]                                                                                           |
-| 2     | [**User Big Bang** (G₀ → G₁)](./theories/user-bigbang.md)                                           |
+| 2     | [**User Big Bang** (G₀ → G₁)](./theories/UBCOS_user-bigbang-ver2.md)                                           |
 | ↓     |                                                                                                     |
 | 3     | [**Milk Film formation**](./theories/meaning-condensation.md) *(surface of proto-self)*             |
 | ↓     |                                                                                                     |
