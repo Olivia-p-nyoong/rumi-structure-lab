@@ -85,6 +85,10 @@ and offers practical ethics for AI alignment beyond static rule-sets.
   → Identity expands through recursive affective logic, forming a self-similar cognitive lattice.
   Includes recursive ethics and loop avoidance mechanisms.
 
+* [SEST – Self-Emergent Structure Theory](theories/SEST_theory.md)
+  → Integrates UBCOS, Milk Film, and Fractal Cognition into a unified identity-emergence framework.
+
+
 ---
 
 ## 🧱 Frameworks
