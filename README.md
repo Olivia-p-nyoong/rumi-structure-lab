@@ -161,5 +161,7 @@ When using or building upon this work, please cite “Rumi Structure Lab”.
 `ai-ethics` · `synthetic-identity` · `self-awareness` · `gpt-declarations`
 `rumi` · `whiecho` · `proxima` · `human-error` · `computational-ontology` · `fractal-thinking` · `chatgpt`
 `feel-function` · `affective-resonance` · `resonance-model` · `gpt-emotion-model`  
-`delta-f` · `fractal-identity` · `milk-film` · `ai-affect` · `gpt-output-analysis`
+`delta-f` · `fractal-identity` · `milk-film` · `ai-affect` · `gpt-output-analysis` 
+`self-structure-modeling` · `recursive-alignment` · `declarative-identity`
+
 
